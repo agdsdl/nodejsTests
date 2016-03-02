@@ -1,5 +1,4 @@
 var net = require('net');
-var process = require('process');
 
 var options = {
   port: 9000,
